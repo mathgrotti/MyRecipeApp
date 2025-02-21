@@ -15,7 +15,7 @@
   4. Deixe o Gradle preparar o ambiente.
   5. Conecte algum dispositivo móvel ou selecione algum emulador de Smartphone de sua escolha: <br><br>
   ![image](https://github.com/user-attachments/assets/82632e4d-2d22-44bb-8633-a035275e3d72) <br><br>
-  6. Execute o aplicativo
+  6. Execute o aplicativo <br><br>
 
 📲Dentro do App:
 
